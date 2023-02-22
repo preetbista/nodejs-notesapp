@@ -1,6 +1,6 @@
 
 
-const getNote = function () {
+const getNote = () => {
     return "Your notes...";
 }
 
